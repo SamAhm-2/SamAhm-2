@@ -1,6 +1,6 @@
 # Hi, I'm Samia! 👋
 
-**CGMA Accountant | Building Analytics Portfolio**
+**Finance Professional | Building Analytics Portfolio**
 
 ## Background
 
