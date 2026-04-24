@@ -40,10 +40,10 @@ Interactive business intelligence dashboard built in AWS QuickSight using Amazon
 
 | Finance | AI & Cloud | BI & Analytics |
 |---|---|---|
-| Management Accounting | Amazon Bedrock | AWS QuickSight |
+| Management Accounting | Amazon Bedrock | Amazon QuickSight |
 | Financial Analysis | Amazon Q Business | Data Storytelling |
-| Budgeting & Forecasting | AWS IAM | BI Dashboard Design |
-| Variance Analysis | Amazon S3 | Scenario Analysis |
+| Budgeting & Forecasting | Claude Anthropic| BI Dashboard Design |
+| Variance Analysis | Microsoft Co-Pilot | Scenario Analysis |
 | Business Partnering | Prompt Engineering | KPI Development |
 
 ---
